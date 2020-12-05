@@ -1,6 +1,3 @@
----
-theme: default
----
 
 
 ### Hi there 👋
