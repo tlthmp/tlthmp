@@ -8,8 +8,7 @@
 Here:
 -->
 
-- 🔭 I’m currently working on ... Finishing my Personal Website: tlthmp.com
-- 🌱 I’m currently learning ... Web Development
+
 - 📫 How to reach me: ... tlthmp@gmail.com
 - 😄 Pronouns: ...He/Him
 
